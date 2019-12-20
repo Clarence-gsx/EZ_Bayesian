@@ -1,2 +1,3 @@
-# EZ_Bayesian
-practice for au332
+# BayesianNetwork
+implement info inference, etc  
+
